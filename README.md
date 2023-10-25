@@ -7,9 +7,9 @@ Herramientas: R: tidyverse; Python: pandas, scikit-learn.
 
 En mi perfil de GitHub encontrarás una variedad de repositorios que reflejan mi experiencia y áreas de interés. Algunos de los proyectos destacados incluyen:
 
-[Analítica de Datos: Criptomonedas](https://github.com/mmvvff/henry_pi_anltcs): En este proyecto empleo herramientas de estadistica descriptiva para analizar la volatilidad relativa del mercado de criptomonedas.
+[Analítica de Datos: Criptomonedas](https://github.com/mmvvff/henry_pi_anltcs): En este proyecto empleo herramientas de estadistica descriptiva para analizar la volatilidad relativa de un subconjunto de criptomonedas.
 
 [Modelo de Clasificación de Aprendizaje Automático](https://github.com/mmvvff/henry_pi_mlops): En este proyecto diseño e implemento un modelo de semejanza de caracteristicas de casos (ML) para orientar un sistema de recomendación de películas.
 
-[Ingeniería de datos](https://github.com/MatB1988/proyectogrupal/tree/main/scripts): En este proyecto, me especializo en coordinar, ajustar, desarrollar e implementar la automatizacion de la fases de extraccion, transformacion, carga y machine learning dentro del entorno Google Cloud por medio de python y bash scripts.
+[Ingeniería de datos](https://github.com/MatB1988/proyectogrupal/tree/main/scripts): En este proyecto grupal me especializo en coordinar, ajustar, desarrollar e implementar la automatizacion de las fases de extraccion, transformacion, carga y machine learning dentro del entorno Google Cloud por medio de python y bash scripts.
 
