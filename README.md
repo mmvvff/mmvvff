@@ -1,30 +1,31 @@
-### Manuel Valderrama-Flórez
+# Manuel Valderrama Flórez
 
-#### English
+## Data science portfolio
 
-I am a mixed researcher and data scientist with academic experience in engineering, data analysis and Machine Learning, complemented with extensive professional experience in quantitative and qualitative research in Colombia and Kenya, as well as in project management. My background includes skills in econometric modeling, qualitative analysis, and social program evaluation. This supports my ability to lead and supervise diverse tasks across much of the information value chain and to communicate effectively in a variety of contexts, both academic and practical. My goal is to apply my knowledge in the field of data science and machine learning to solve practical problems.
+Languages: R, Python, SQL, sh/bash.
 
-Languages: R, Python, sh/bash. Tools: R: tidyverse; Python: pandas, scikit-learn.
+[Mistral API: Information Extraction with JSON Mode](https://github.com/mmvvff/mistral_codestralapi): We offer a straightforward comparison of the performance of models in the Mistral family, focusing specifically on extracting information using JSON mode and JSON schemas. We also demonstrate how to integrate the Codestral API into a Python workflow, focusing on the service's FIM (fill in the middle) and chat completion features.
 
-In my GitHub profile, you will find a variety of repositories that reflect my experience and areas of interest. Some of the featured projects include:
+[Data Science: Job Simulation Project: Extended]([https://github.com/mmvvff/henry_pi_mlops](https://github.com/mmvvff/bcg_extended)): Data Science workflow. It covers problem framing, hypothesis formulation, data pre-processing, model training and evaluation, and presenting findings to a non-technical audience. 
 
-[Data Analytics: Cryptocurrencies](https://github.com/mmvvff/henry_pi_anltcs): In this project, I employ descriptive statistics tools to analyze the relative volatility of a subset of cryptocurrencies.
+[Data Science: Machine Learning Classification Model](https://github.com/mmvvff/henry_pi_mlops): Designed and implemented a case feature similarity (ML) model that serves as the basis for guiding a movie recommendation system.
 
-[Machine Learning Classification Model](https://github.com/mmvvff/henry_pi_mlops): In this project I design and implement a case feature similarity (ML) model that serves as the basis for guiding a movie recommendation system.
+[Data Engineering](https://github.com/MatB1988/proyectogrupal/tree/main/scripts): Led the development of the automation of the extraction, transformation, loading within the Google Cloud environment by means of Python and Bash scripts.
 
-[Data Engineering](https://github.com/MatB1988/proyectogrupal/tree/main/scripts):In this group project, I specialize in coordinating, tuning, developing and implementing the automation of the extraction, transformation, loading and Machine Learning phases within the Google Cloud environment by means of Python and Bash scripts.
+[Data Analytics: Cryptocurrencies](https://github.com/mmvvff/henry_pi_anltcs): Employed descriptive statistics tools to analyze the relative volatility of a subset of cryptocurrencies.
 
-#### Español
+---
 
-Soy un investigador mixto y científico de datos con experiencia académica en ingeniería, análisis de datos y Machine Learning, complementada con una amplia experiencia profesional en investigación cuantitativa y cualitativa en Colombia y Kenya, así como en gestión de proyectos. Mi bagaje incluye habilidades en modelos econométricos, análisis cualitativo, y evaluación de programas sociales. Lo anterior respalda mi capacidad para liderar y supervisar diversas tareas en gran parte de la cadena de valor de la información y de comunicarme de manera efectiva en una variedad de contextos, tanto académicos como prácticos. Mi objetivo es aplicar mis conocimientos en el ámbito de la ciencia de datos y machine learning para solucionar problemas prácticos.
+## Portafolio de Ciencia de Datos
 
-Lenguajes: R, Python, sh/bash. Herramientas: R: tidyverse; Python: pandas, scikit-learn.
+Lenguajes: R, Python, SQL, sh/bash.
 
-En mi perfil de GitHub encontrarás una variedad de repositorios que reflejan mi experiencia y áreas de interés. Algunos de los proyectos destacados incluyen:
+[Mistral API](https://github.com/mmvvff/mistral_codestralapi): Ofrecemos una comparación sencilla del rendimiento de los modelos de la familia Mistral, enfocándonos específicamente en la extracción de información utilizando el modo JSON y esquemas JSON. También demostramos cómo integrar la API de Codestral en un flujo de trabajo de Python, centrándonos en las características de FIM (relleno en el medio) y finalización de chat.
 
-[Analítica de Datos: Criptomonedas](https://github.com/mmvvff/henry_pi_anltcs): En este proyecto empleo herramientas de estadística descriptiva para analizar la volatilidad relativa de un subconjunto de criptomonedas.
+[Data Science: Proyecto de Simulación de Trabajo: Ampliado](https://github.com/mmvvff/bcg_extended): Flujo de trabajo en Ciencia de Datos. Cubre la formulación de problemas, formulación de hipótesis, preprocesamiento de datos, entrenamiento y evaluación de modelos, y la presentación de hallazgos a una audiencia no técnica.
 
-[Modelo de Clasificación de Aprendizaje Automático](https://github.com/mmvvff/henry_pi_mlops): En este proyecto diseño e implemento un modelo de semejanza de características de casos (ML) que sirve de base para orientar un sistema de recomendación de películas.
+[Data Science: Modelo de Clasificación de Aprendizaje Automático](https://github.com/mmvvff/henry_pi_mlops): Diseñé e implementé un modelo de similitud de características (ML) que sirve como base para guiar un sistema de recomendación de películas.
 
-[Ingeniería de datos](https://github.com/MatB1988/proyectogrupal/tree/main/scripts): En este proyecto grupal, me especializo en coordinar, ajustar, desarrollar e implementar la automatización de las fases de extracción, transformación, carga y Machine Learning dentro del entorno Google Cloud por medio de Python y Bash scripts.
+[Ingeniería de Datos](https://github.com/MatB1988/proyectogrupal/tree/main/scripts): Lideré el desarrollo de la automatización de la extracción, transformación y carga dentro del entorno de Google Cloud mediante scripts de Python y Bash.
 
+[Análisis de Datos: Criptomonedas](https://github.com/mmvvff/henry_pi_anltcs): Utilicé herramientas de estadística descriptiva para analizar la volatilidad relativa de un subconjunto de criptomonedas.
