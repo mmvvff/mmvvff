@@ -4,6 +4,8 @@
 
 Languages: R, Python, SQL, sh/bash.
 
+[Value-Added Decomposition of the OECD's Analytical AMNE](https://github.com/mmvvff/aamne_decompr): Implement the value-added trade measurement framework using data from the OECD's Analytical AMNE (Activities of Multinational Enterprises) database. The decomposition is performed using the decompr R package, and strategies are outlined to estimate value-added trade within sector-to-sector relationships.
+
 [Mistral API: Information Extraction with JSON Mode](https://github.com/mmvvff/mistral_codestralapi): We offer a straightforward comparison of the performance of models in the Mistral family, focusing specifically on extracting information using JSON mode and JSON schemas. We also demonstrate how to integrate the Codestral API into a Python workflow, focusing on the service's FIM (fill in the middle) and chat completion features.
 
 [Data Science: Job Simulation Project: Extended](https://github.com/mmvvff/bcg_extended): Data Science workflow. It covers problem framing, hypothesis formulation, data pre-processing, model training and evaluation, and presenting findings to a non-technical audience. 
@@ -19,6 +21,8 @@ Languages: R, Python, SQL, sh/bash.
 ## Portafolio de Ciencia de Datos
 
 Lenguajes: R, Python, SQL, sh/bash.
+
+[Descomposición del valor agregado aplicado a aAMNE de la OECD](https://github.com/mmvvff/aamne_decompr): Implemento un método de medición del intercambio de valor agregado a la base de datos aAMNE (Actividades de las Empresas Multinacionales) de la OCDE. La descomposición se realiza utilizando el paquete decompr de R, y se esbozan estrategias para estimar el intercambio de valor agregado entre sectores.
 
 [Mistral API](https://github.com/mmvvff/mistral_codestralapi): Ofrecemos una comparación sencilla del rendimiento de los modelos de la familia Mistral, enfocándonos específicamente en la extracción de información utilizando el modo JSON y esquemas JSON. También demostramos cómo integrar la API de Codestral en un flujo de trabajo de Python, centrándonos en las características de FIM (relleno en el medio) y finalización de chat.
 
