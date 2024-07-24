@@ -4,9 +4,9 @@
 
 Languages: R, Python, SQL, sh/bash.
 
-[Value-Added Decomposition of the OECD's Analytical AMNE](https://github.com/mmvvff/aamne_decompr): Implement the value-added trade measurement framework using data from the OECD's Analytical AMNE (Activities of Multinational Enterprises) database. The decomposition is performed using the decompr R package, and strategies are outlined to estimate value-added trade within sector-to-sector relationships.
+[Value-Added Decomposition of the OECD's Analytical AMNE](https://github.com/mmvvff/aamne_decompr): Implements the value-added trade measurement framework using data from the OECD's Analytical AMNE (Activities of Multinational Enterprises) database. The decomposition is performed using the decompr R package, and strategies are outlined to estimate value-added trade within sector-to-sector relationships.
 
-[Mistral API: Information Extraction with JSON Mode](https://github.com/mmvvff/mistral_codestralapi): We offer a straightforward comparison of the performance of models in the Mistral family, focusing specifically on extracting information using JSON mode and JSON schemas. We also demonstrate how to integrate the Codestral API into a Python workflow, focusing on the service's FIM (fill in the middle) and chat completion features.
+[Mistral API: Information Extraction with JSON Mode](https://github.com/mmvvff/mistral_codestralapi): I offer a straightforward comparison of the performance of models in the Mistral family, focusing specifically on extracting information using JSON mode and JSON schemas. I also demonstrate how to integrate the Codestral API into a Python workflow, focusing on the service's FIM (fill in the middle) and chat completion features.
 
 [Data Science: Job Simulation Project: Extended](https://github.com/mmvvff/bcg_extended): Data Science workflow. It covers problem framing, hypothesis formulation, data pre-processing, model training and evaluation, and presenting findings to a non-technical audience. 
 
